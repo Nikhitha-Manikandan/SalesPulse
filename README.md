@@ -31,7 +31,6 @@ SalesPulse/
 ├── customers.py
 ├── orders.py
 ├── requirements.txt
-├── .env
 ├── .gitignore
 └── README.md
 ```
